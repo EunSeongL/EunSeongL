@@ -7,7 +7,7 @@
 | **[프로젝트 제목 3](https://github.com/your-username/project-repo-3)** <br> (YYYY.MM ~ YYYY.MM) | 세 번째 프로젝트에 대한 간결한 설명입니다. | 대한상공회의소 | [GitHub](https://github.com/your-username/project-repo-3) |
 | **[프로젝트 제목 4](https://github.com/your-username/project-repo-3)** <br> (YYYY.MM ~ YYYY.MM) | 네 번째 프로젝트에 대한 간결한 설명입니다. | 대한상공회의소 | [GitHub](https://github.com/your-username/project-repo-3) |
 | **[프로젝트 제목 5](https://github.com/your-username/project-repo-3)** <br> (YYYY.MM ~ YYYY.MM) | 다섯 번째 프로젝트에 대한 간결한 설명입니다. | 대한상공회의소 | [GitHub](https://github.com/your-username/project-repo-3) |
-| **[샘플링 기법 기반 확장 칼만 필터(EKF)를 이용한 배터리 SOC 추정 알고리즘의 하드웨어 구현]** <br> (2024.02 ~ 2024.06) | 여섯 번째 프로젝트에 대한 간결한 설명입니다. | 상명대학교 | [GitHub](https://github.com/your-username/project-repo-3) |
+| **샘플링 기법 기반 확장 칼만 필터(EKF)를 이용한 배터리 SOC 추정 알고리즘의 하드웨어 구현** <br> (2024.02 ~ 2024.06) | 여섯 번째 프로젝트에 대한 간결한 설명입니다. | 상명대학교 | [GitHub](https://github.com/your-username/project-repo-3) |
 
 <br>
 
