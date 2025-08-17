@@ -91,10 +91,15 @@
 <br>
 
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;"> <a href=mailto:https://mail.google.com/mail#inbox> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:https://mail.google.com/mail/u/0/?pli=1#inbox"> </a>
-          </div>  <br> 
-    <div style="text-align: left;">  </div> 
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
+  <div style="text-align: left;">
+    <a href="mailto:dldmstjd07272@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/은성-이-779088318/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
+    </a>
+  </div>
 </div>
 
 <div style="text-align: left;">
