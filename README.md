@@ -7,7 +7,7 @@
 | 프로젝트 (Project) | 설명 (Description) | 수행기관 (Organization) | 링크 (Links) |
 |:---|:---|:---|:---|
 | **[프로젝트 제목 1](https://github.com/your-username/project-repo-1)** <br> 📅(2025.07 ~ 2025.08) | 핵심 내용을 담은 한 줄 설명을 적어주세요. 이 프로젝트는 어떤 문제를 해결하기 위해 만들어졌나요? | 대한상공회의소 | [GitHub](https://github.com/your-username/project-repo-1) <br> [Live Demo](https://your-live-demo-url-1.com) |
-| **[CPU Design]** <br> 📅(2025.08 ~ 2025.08) | 두 번째 프로젝트에 대한 간결한 설명입니다. | 대한상공회의소 | [GitHub](https://github.com/your-username/project-repo-2) <br> [Live Demo](https://your-live-demo-url-2.com) |
+| **CPU Design** <br> 📅(2025.08 ~ 2025.08) | 두 번째 프로젝트에 대한 간결한 설명입니다. | 대한상공회의소 | [GitHub](https://github.com/your-username/project-repo-2) <br> [Live Demo](https://your-live-demo-url-2.com) |
 | **[프로젝트 제목 3](https://github.com/your-username/project-repo-3)** <br> 📅(YYYY.MM ~ YYYY.MM) | 세 번째 프로젝트에 대한 간결한 설명입니다. | 대한상공회의소 | [GitHub](https://github.com/your-username/project-repo-3) |
 | **[프로젝트 제목 4](https://github.com/your-username/project-repo-3)** <br> 📅(YYYY.MM ~ YYYY.MM) | 네 번째 프로젝트에 대한 간결한 설명입니다. | 대한상공회의소 | [GitHub](https://github.com/your-username/project-repo-3) |
 | **[프로젝트 제목 5](https://github.com/your-username/project-repo-3)** <br> 📅(YYYY.MM ~ YYYY.MM) | 다섯 번째 프로젝트에 대한 간결한 설명입니다. | 대한상공회의소 | [GitHub](https://github.com/your-username/project-repo-3) |
