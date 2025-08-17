@@ -50,9 +50,9 @@
   <tr>
     <td align="center"><strong>EDA Tools</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Vivado-8E2285?style=for-the-badge&logo=xilinx&logoColor=white"/>  
-      <img src="https://img.shields.io/badge/VCS-00A652?style=for-the-badge&logo=synopsys&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Verdi-00A652?style=for-the-badge&logo=synopsys&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vivado-00A652?style=for-the-badge&logo=xilinx&logoColor=white"/>  
+      <img src="https://img.shields.io/badge/VCS-8E2285?style=for-the-badge&logo=synopsys&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Verdi-22225B?style=for-the-badge&logo=synopsys&logoColor=white"/>
     </td>
   </tr>
   <tr>
