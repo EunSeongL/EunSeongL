@@ -43,7 +43,6 @@
   <tr>
     <td align="center"><strong>IDE</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Vivado-8E2285?style=for-the-badge&logo=xilinx&logoColor=white"/>
       <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
       <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
     </td>
@@ -51,6 +50,7 @@
   <tr>
     <td align="center"><strong>EDA Tools</strong></td>
     <td>
+      <img src="https://img.shields.io/badge/Vivado-8E2285?style=for-the-badge&logo=xilinx&logoColor=white"/>  
       <img src="https://img.shields.io/badge/VCS-00A652?style=for-the-badge&logo=synopsys&logoColor=white"/>
       <img src="https://img.shields.io/badge/Verdi-00A652?style=for-the-badge&logo=synopsys&logoColor=white"/>
     </td>
