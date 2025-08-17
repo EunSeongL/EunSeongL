@@ -26,7 +26,7 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Verilog-90C0DE?style=for-the-badge&logo=verilog&logoColor=white"/>
       <img src="https://img.shields.io/badge/SystemVerilog-77A651?style=for-the-badge&logo=systemverilog&logoColor=white"/>
-      <img src="https://img.shields.io/badge/matlab-77A651?style=for-the-badge&logo=matlab&logoColor=white"/>  
+      <img src="https://img.shields.io/badge/matlab-3776AB?style=for-the-badge&logo=matlab&logoColor=white"/>  
       <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
     </td>
   </tr>
