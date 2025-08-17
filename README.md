@@ -12,7 +12,7 @@
 | **AI NUTRI VIEW** <br> 📅(25.07.01 ~ 25.07.10) | Ai Nutri View는 딥러닝과 LLM을 이용해 웹캠으로 사용자의 나이와 성별을 분석 후, 맞춤형 영양제를 추천하는 헬스케어 시스템. 특히 Xilinx FPGA의 DPU 환경에 딥러닝 모델을 최적화하여, CPU 기반 환경 대비 약 36배 빠른 추론 속도와 높은 전력 효율을 달성하며 실시간 AI 가이드의 가능성을 검증. | 대한상공회의소 | [AI NUTRI VIEW](https://github.com/EunSeongL/AI_Age_Body_TEAM4) |
 | **[프로젝트 제목 4](https://github.com/your-username/project-repo-3)** <br> 📅(YYYY.MM ~ YYYY.MM) | 네 번째 프로젝트에 대한 간결한 설명입니다. | 대한상공회의소 | [GitHub](https://github.com/your-username/project-repo-3) |
 | **[프로젝트 제목 5](https://github.com/your-username/project-repo-3)** <br> 📅(YYYY.MM ~ YYYY.MM) | 다섯 번째 프로젝트에 대한 간결한 설명입니다. | 대한상공회의소 | [GitHub](https://github.com/your-username/project-repo-3) |
-| **샘플링 기법 기반 확장 칼만 필터(EKF)를 이용한 배터리 SOC 추정 알고리즘의 하드웨어 구현** <br> 📅(2024.02 ~ 2024.06) | 여섯 번째 프로젝트에 대한 간결한 설명입니다. | 상명대학교 | [GitHub](https://github.com/your-username/project-repo-3) |
+| **샘플링 기법 기반 확장 칼만 필터(EKF)를 이용한 배터리 SOC 추정 알고리즘의 하드웨어 구현** <br> 📅(2024.02 ~ 2024.06) | 여섯 번째 프로젝트에 대한 간결한 설명입니다. | 상명대학교 | [Battery-SOC-EKF](https://github.com/EunSeongL/Battery-SOC-EKF) |
 
 <br>
 
