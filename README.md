@@ -98,10 +98,10 @@
 </div>
 
 <div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
-  <div style="text-align: left;">
-    <img src="https://github-readme-stats.vercel.app/api?username=EunSeongL&show_icons=true&theme=radical&custom_title=EunSeongL's%20Github%20Stats&bg_color=FFFFFF" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EunSeongL&layout=compact&theme=radical&bg_color=FFFFFF" />
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
+      <div style="text-align: left;">
+        <img src="https://github-readme-stats.vercel.app/api?username=EunSeongL&show_icons=true&theme=radical&custom_title=EunSeongL's%20Github%20Stats&bg_color=blue" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EunSeongL&layout=compact&theme=radical&bg_color=blue" />
   </div>
 </div>
 
