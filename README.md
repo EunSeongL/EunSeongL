@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&text=EunSeong%20Lee's%20GitHub&animation=twinkling&fontColor=000000&fontSize=55" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&text=EunSeong%20Lee's%20GitHub&animation=twinkling&fontColor=000000&fontSize=55" />
 </div>
 
 ## 🚀 MY Projects 🚀
