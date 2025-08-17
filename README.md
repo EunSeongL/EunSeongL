@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## 🚀 MY Projects 🚀
 
 | 프로젝트 (Project) | 설명 (Description) | 기술 스택 (Tech Stack) | 링크 (Links) |
@@ -10,7 +8,7 @@
 
 <br>
 
-## Tech Stack 📌
+## 🚀 Tech Stack 🚀
 
 <table>
   <tr>
