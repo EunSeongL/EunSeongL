@@ -13,7 +13,7 @@
 | **Digital Clock** <br> 📅(25.05.20 ~ 25.06.02) | - **Basys3 FPGA 보드**를 이용해 **디지털 시계(WATCH & STOPWATCH)**, **UART 통신**, **초음파 센서(HC-SR04)**, **온습도 센서(DHT11)** 를 통합.<br> - **각 모듈을 블록화**하여 Top Module에서 통합 동작하도록 설계·검증 | 대한상공회의소 | [Digital Clock](https://github.com/EunSeongL/Digital-Clock) |
 | **탄환지옥-생존의무대** <br> 📅(25.04.25 ~ 25.05.02) | 설명 | 대한상공회의소 | [Avoid Bullets](https://github.com/EunSeongL/Avoid-Bullets) |
 | **샘플링 기법 기반 확장 칼만 필터(EKF)를 이용한 배터리 SOC 추정 알고리즘의 하드웨어 구현** <br> 📅(24.02 ~ 24.06) | - 전기차 배터리 **안전 문제** 해결을 위해 **하드웨어 기반 EKF**를 적용하여 **SOC 추정**을 수행, **소프트웨어 부담**과 **시스템 과부하**를 줄임.<br> - **Samsung INR21700-50E 배터리** 대상 **SOC 예측·칼만 이득 계산·업데이트**를 수행하며, 충·방전 상태에 따라 **샘플링 간격**을 조절.<br> - **고정소수점 연산**과 **truncation**으로 **RMSE 최소화**, **ALU 병렬 처리**로 **연산 속도 향상** 및 **면적 절감**.<br> - **Verilog RTL 구현** 후 **소프트웨어와 비교 검증** 결과 **0.001417% 오차**, **FPGA(DE2-115) 합성**으로 실제 **SOC 추정 성능** 확인. | 상명대학교 | [Battery SOC EKF](https://github.com/EunSeongL/Battery-SOC-EKF) | <br>
-| **FIR Filter Design** <br> 📅(24.06.17 ~ 24.06.23) | 설명 | 상명대학교 | [Avoid Bullets](https://github.com/EunSeongL/FIR-Filter-Design) |
+| **FIR Filter Design** <br> 📅(24.06.17 ~ 24.06.23) | 설명 | 상명대학교 | [FIR Filter Design](https://github.com/EunSeongL/FIR-Filter-Design) |
 
 ## 🚀 Tech Stack 🚀
 
