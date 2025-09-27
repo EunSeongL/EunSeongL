@@ -91,8 +91,8 @@
     <td>
       <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TensorFlow-5C3EE8?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Keras-5C3EE8?style=for-the-badge&logo=keras&logoColor=white"/>  
+      <img src="https://img.shields.io/badge/TensorFlow-B7472A?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Keras-4B0082?style=for-the-badge&logo=keras&logoColor=white"/>  
     </td>
   </tr>
 </table>
