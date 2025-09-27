@@ -6,6 +6,7 @@
 
 | 프로젝트 (Project) | 설명 (Description) | 수행기관 (Organization) | 링크 (Links) |
 |:---|:---|:---|:---|
+| **Penalty Kick Game** <br> 📅(25.09.04 ~ 25.09.05) | 설명 | 대한상공회의소 | [Penalty Kick Game](https://github.com/EunSeongL/Ronaldo-Project) |
 | **AXI4 Lite Protocol** <br> 📅(25.09.04 ~ 25.09.05) | 설명 | 대한상공회의소 | [AXI4 Lite Protocol](https://github.com/EunSeongL/AXI4-Lite-Protocol) |
 | **RISC-V APB** <br> 📅(25.08.26 ~ 25.08.29) | 설명 | 대한상공회의소 | [RISC-V AMBA APB](https://github.com/EunSeongL/RISCV-AMBA-APB) |
 | **CPU Design** <br> 📅(25.08.14 ~ 25.08.29) | - RISC-V 명령어 세트 아키텍처를 기반으로 구현한 32비트 **(Single, Multi)-Cycle** CPU 설계<br> - CPU의 핵심 구성 요소인 **DataPath**와 **ControlUnit**을 System Verilog를 사용하여 설계<br> - Vivado EDA tool을 활용하여 RTL 코드를 합성 후 시뮬레이션을 통해 **모든 명령어 타입 검증**.<br> - C언어 코드를 머신코드로 변환하여 실행함으로써, 소프트웨어와 하드웨어 간의 동작방식을 이해 | 대한상공회의소 | [CPU Design](https://github.com/EunSeongL/CPU-Design) |
