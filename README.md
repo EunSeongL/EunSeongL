@@ -35,7 +35,7 @@
     <td align="center"><strong>MCU</strong></td>
     <td>
       <img src="https://img.shields.io/badge/ATmega128-E34F26?style=for-the-badge&logo=microchip-technology&logoColor=white"/>
-      <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+      <img src="https://img.shields.io/badge/STM32(Cortex-M3)-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -56,6 +56,7 @@
     <td>
       <img src="https://img.shields.io/badge/Vivado-00A652?style=for-the-badge&logo=xilinx&logoColor=white"/>
       <img src="https://img.shields.io/badge/Vitis-FA2E2E?style=for-the-badge&logo=xilinx&logoColor=white"/>
+      <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
       <img src="https://img.shields.io/badge/VCS-8E2285?style=for-the-badge&logo=synopsys&logoColor=white"/>
       <img src="https://img.shields.io/badge/Verdi-22225B?style=for-the-badge&logo=synopsys&logoColor=white"/>
       <img src="https://img.shields.io/badge/Synopsys%20Custom%20Compiler-4B0082?style=for-the-badge&logo=synopsys&logoColor=white"/>
