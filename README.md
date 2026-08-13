@@ -114,14 +114,6 @@
   </div>
 </div>
 
-<div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
-    <div style="text-align: left;">
-    <img src="https://github-readme-stats.vercel.app/api?username=EunSeongL&show_icons=true&custom_title=EunSeongL's%20Github%20Stats&bg_color=blue&title_color=black&text_color=black&icon_color=black" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EunSeongL&layout=compact&bg_color=black&title_color=black&text_color=black" />
-    </div>
-</div>
-
 <!--
 **EunSeongL/EunSeongL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
