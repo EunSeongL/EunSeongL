@@ -18,7 +18,7 @@
 ## 🚀 MY Study 🚀
 | 학습 (Practice) | 설명 (Description) | 수행기관 (Organization) | 링크 (Links) |
 |:---|:---|:---|:---|
-| **VCS를 활용한 SystemVerilog Testbench 및 검증 방법론** <br> 📅(26.07.22 ~) | - SystemVerilog 기반의 Constrained Random Verification 환경 구축 능력을 학습하였습니다.<br> - 16x16 Router 모델을 검증 대상(DUT)으로 삼아, 시뮬레이션 레이스 컨디션을 방지하는 구조적 검증 환경 구축법을 다뤘습니다.<br> - 데이터 타입 제어, 동적 배열 처리, 객체지향 프로그래밍(OOP) 기반 캡슐화, Functional Coverage 구조 설계 및 UVM 프레임워크의 기초 개념을 포함하여, 실무 검증 방법론을 체계적으로 습득하는 것을 목표로 하였습니다. | 반도체설계교육센터 | [SystemVerilog TestBench](https://github.com/EunSeongL/SystemVerilog-TestBench) |
+| **VCS를 활용한 SystemVerilog Testbench 및 검증 방법론** <br> 📅(26.07.22 ~) | - SystemVerilog 기반의 Constrained Random Verification 환경 구축에 대해 학습하였습니다.<br> - 16x16 Router 모델을 검증 대상(DUT)으로 삼아, 시뮬레이션 레이스 컨디션을 방지하는 구조적 검증 환경 구축법을 다뤘습니다.<br> - 데이터 타입 제어, 동적 배열 처리, 객체지향 프로그래밍(OOP) 기반 캡슐화, Functional Coverage 구조 설계 및 UVM 프레임워크의 기초 개념을 포함하여, 실무 검증 방법론을 체계적으로 습득하는 것을 목표로 하였습니다. | 반도체설계교육센터 | [SystemVerilog TestBench](https://github.com/EunSeongL/SystemVerilog-TestBench) |
 
 ## 🚀 Tech Stack 🚀
 
