@@ -18,7 +18,7 @@
 ## 🚀 MY Study 🚀
 | 학습 (Practice) | 설명 (Description) | 수행기관 (Organization) | 링크 (Links) |
 |:---|:---|:---|:---|
-| **SystemVerilog TestBench** <br> 📅(26.07.22 ~) | - SystemVerilog 문법 및 하드웨어 스케줄링 메커니즘 학습<br> - 16×16 Router DUT를 대상으로 Constrained Random Verification(CRV) 환경 구축<br> - Dynamic Array, Queue 등 데이터 구조를 활용한 Testbench 구현<br> - OOP 기반 Verification Component 설계 및 재사용 가능한 검증 환경 구성<br> - Functional Coverage를 이용한 검증 결과 분석 및 Coverage 기반 검증 수행<br> - UVM 기본 구조와 검증 방법론 이해 | 반도체설계교육 | [SystemVerilog TestBench](https://github.com/EunSeongL/Ronaldo_Project) |
+| **VCS를 활용한 SystemVerilog Testbench 및 검증 방법론** <br> 📅(26.07.22 ~) | - SystemVerilog 문법 및 하드웨어 스케줄링 메커니즘 학습<br> - 16×16 Router DUT를 대상으로 Constrained Random Verification(CRV) 환경 구축<br> - Dynamic Array, Queue 등 데이터 구조를 활용한 Testbench 구현<br> - OOP 기반 Verification Component 설계 및 재사용 가능한 검증 환경 구성<br> - Functional Coverage를 이용한 검증 결과 분석 및 Coverage 기반 검증 수행<br> - UVM 기본 구조와 검증 방법론 이해 | 반도체설계교육센터 | [SystemVerilog TestBench](https://github.com/EunSeongL/Ronaldo_Project) |
 
 ## 🚀 Tech Stack 🚀
 
