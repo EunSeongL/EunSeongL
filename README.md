@@ -15,7 +15,7 @@
 | **탄환지옥-생존의무대** <br> 📅(25.04.25 ~ 25.05.02) | - **ARM Cortex-M3** 기반의 마이크로컨트롤러에서 게임 로직 구현 및 **하드웨어 데이터시트 기반 레지스터 직접 제어**<br> - 타이머, GPIO, PWM, 인터럽트 등 **데이터시트를 참고하여 필요한 레지스터 비트를 직접 활성화**하고 활용<br> - **임베디드** 환경에서 **레지스터 제어와 인터럽트 기반** 프로그래밍 이해 | 대한상공회의소 | [Avoid Bullets](https://github.com/EunSeongL/Avoid-Bullets) |
 | **샘플링 기법 기반 확장 칼만 필터(EKF)를 이용한 배터리 SOC 추정 알고리즘의 하드웨어 구현** <br> 📅(24.02 ~ 24.06) | - 전기차 배터리 **안전 문제** 해결을 위해 **하드웨어 기반 EKF**를 적용하여 **SOC 추정**을 수행, **소프트웨어 부담**과 **시스템 과부하**를 줄임.<br> - **Samsung INR21700-50E 배터리** 대상 **SOC 예측·칼만 이득 계산·업데이트**를 수행하며, 충·방전 상태에 따라 **샘플링 간격**을 조절.<br> - **고정소수점 연산**과 **truncation**으로 **RMSE 최소화**, **ALU 병렬 처리**로 **연산 속도 향상** 및 **면적 절감**.<br> - **Verilog RTL 구현** 후 **소프트웨어와 비교 검증** 결과 **0.001417% 오차**, **FPGA(DE2-115) 합성**으로 실제 **SOC 추정 성능** 확인. | 상명대학교 | [Battery SOC EKF](https://github.com/EunSeongL/Battery-SOC-EKF) | <br>
 
-## 🚀 MY Study 🚀
+## 📖 MY Study ✏️
 | 학습 (Practice) | 설명 (Description) | 수행기관 (Organization) | 링크 (Links) |
 |:---|:---|:---|:---|
 | **VCS를 활용한 SystemVerilog Testbench 및 검증 방법론** <br> 📅(26.07.22 ~) | - SystemVerilog 기반의 Constrained Random Verification 환경 구축에 대해 학습하였습니다.<br> - 16x16 Router 모델을 검증 대상(DUT)으로 삼아, 시뮬레이션 레이스 컨디션을 방지하는 구조적 검증 환경 구축법을 다뤘습니다.<br> - 데이터 타입 제어, 동적 배열 처리, 객체지향 프로그래밍(OOP) 기반 캡슐화, Functional Coverage 구조 설계 및 UVM 프레임워크의 기초 개념을 포함하여, 실무 검증 방법론을 체계적으로 습득하는 것을 목표로 하였습니다. | 반도체설계교육센터 | [SystemVerilog TestBench](https://github.com/EunSeongL/SystemVerilog-TestBench) |
