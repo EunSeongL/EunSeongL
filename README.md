@@ -6,7 +6,6 @@
 
 | 프로젝트 (Project) | 설명 (Description) | 수행기관 (Organization) | 링크 (Links) |
 |:---|:---|:---|:---|
-| **SystemVerilog TestBench** <br> 📅(26.07.22 ~) | - SystemVerilog 문법 및 하드웨어 스케줄링 메커니즘 학습<br> - 16×16 Router DUT를 대상으로 Constrained Random Verification(CRV) 환경 구축<br> - Dynamic Array, Queue 등 데이터 구조를 활용한 Testbench 구현<br> - OOP 기반 Verification Component 설계 및 재사용 가능한 검증 환경 구성<br> - Functional Coverage를 이용한 검증 결과 분석 및 Coverage 기반 검증 수행<br> - UVM 기본 구조와 검증 방법론 이해 | 반도체설계교육 | [SystemVerilog TestBench](https://github.com/EunSeongL/Ronaldo_Project) |
 | **Penalty Kick Game** <br> 📅(25.09.16 ~ 25.09.25) | - **AXI4-Lite 인터페이스를 기반**으로 직접 설계한 **하드웨어 IP**(BTN, UART, SCCB, VGA)를 이용해 **임베디드 시스템**을 구축<br> - PC와 FPGA간의 **통신 프로토콜 정의**<br> - **OV7670 카메라**와 **VGA 디스플레이**를 연동한 다양한 이미지 필터 구현 및 **SystemVerilog**를 통한 검증 | 대한상공회의소 | [Penalty Kick Game](https://github.com/EunSeongL/Ronaldo_Project) |
 | **RISC-V APB** <br> 📅(25.08.26 ~ 25.08.29) | - 설계한 RISC-V RV32I CPU에 ARM사의 AMBA APB Protocol Spec을 참고하여 **APB**를 설계, 통합후, 주변 장치를 연결<br> - **SystemVerilog Verification Testbench 구조**를 통해 DUT에 대한 검증<br> - **C -> 어셈블리어 -> 머신코드**로 변환 후 머신코드를 ROM에 넣어 정상적으로 동작하는 것을 확인 | 대한상공회의소 | [RISC-V AMBA APB](https://github.com/EunSeongL/RISCV-AMBA-APB) |
 | **CPU Design** <br> 📅(25.08.14 ~ 25.08.29) | - RISC-V 명령어 세트 아키텍처를 기반으로 구현한 32비트 **(Single, Multi)-Cycle** CPU 설계<br> - CPU의 핵심 구성 요소인 **DataPath**와 **ControlUnit**을 System Verilog를 사용하여 설계<br> - **Vivado EDA tool**을 활용하여 RTL 코드를 합성 후 시뮬레이션을 통해 **모든 명령어 타입 검증**.<br> - C언어 코드를 머신코드로 변환하여 실행함으로써, 소프트웨어와 하드웨어 간의 동작방식을 이해 | 대한상공회의소 | [CPU Design](https://github.com/EunSeongL/CPU-Design) |
@@ -15,6 +14,11 @@
 | **Digital Clock** <br> 📅(25.05.20 ~ 25.06.02) | - **Basys3 FPGA 보드**를 이용해 **디지털 시계(WATCH & STOPWATCH)**, **UART 통신**, **초음파 센서(HC-SR04)**, **온습도 센서(DHT11)** 를 통합.<br> - **각 모듈을 블록화**하여 Top Module에서 통합 동작하도록 설계·검증 | 대한상공회의소 | [Digital Clock](https://github.com/EunSeongL/Digital-Clock) |
 | **탄환지옥-생존의무대** <br> 📅(25.04.25 ~ 25.05.02) | - **ARM Cortex-M3** 기반의 마이크로컨트롤러에서 게임 로직 구현 및 **하드웨어 데이터시트 기반 레지스터 직접 제어**<br> - 타이머, GPIO, PWM, 인터럽트 등 **데이터시트를 참고하여 필요한 레지스터 비트를 직접 활성화**하고 활용<br> - **임베디드** 환경에서 **레지스터 제어와 인터럽트 기반** 프로그래밍 이해 | 대한상공회의소 | [Avoid Bullets](https://github.com/EunSeongL/Avoid-Bullets) |
 | **샘플링 기법 기반 확장 칼만 필터(EKF)를 이용한 배터리 SOC 추정 알고리즘의 하드웨어 구현** <br> 📅(24.02 ~ 24.06) | - 전기차 배터리 **안전 문제** 해결을 위해 **하드웨어 기반 EKF**를 적용하여 **SOC 추정**을 수행, **소프트웨어 부담**과 **시스템 과부하**를 줄임.<br> - **Samsung INR21700-50E 배터리** 대상 **SOC 예측·칼만 이득 계산·업데이트**를 수행하며, 충·방전 상태에 따라 **샘플링 간격**을 조절.<br> - **고정소수점 연산**과 **truncation**으로 **RMSE 최소화**, **ALU 병렬 처리**로 **연산 속도 향상** 및 **면적 절감**.<br> - **Verilog RTL 구현** 후 **소프트웨어와 비교 검증** 결과 **0.001417% 오차**, **FPGA(DE2-115) 합성**으로 실제 **SOC 추정 성능** 확인. | 상명대학교 | [Battery SOC EKF](https://github.com/EunSeongL/Battery-SOC-EKF) | <br>
+
+## 🚀 MY Study 🚀
+| 학습 (Practice) | 설명 (Description) | 수행기관 (Organization) | 링크 (Links) |
+|:---|:---|:---|:---|
+| **SystemVerilog TestBench** <br> 📅(26.07.22 ~) | - SystemVerilog 문법 및 하드웨어 스케줄링 메커니즘 학습<br> - 16×16 Router DUT를 대상으로 Constrained Random Verification(CRV) 환경 구축<br> - Dynamic Array, Queue 등 데이터 구조를 활용한 Testbench 구현<br> - OOP 기반 Verification Component 설계 및 재사용 가능한 검증 환경 구성<br> - Functional Coverage를 이용한 검증 결과 분석 및 Coverage 기반 검증 수행<br> - UVM 기본 구조와 검증 방법론 이해 | 반도체설계교육 | [SystemVerilog TestBench](https://github.com/EunSeongL/Ronaldo_Project) |
 
 ## 🚀 Tech Stack 🚀
 
