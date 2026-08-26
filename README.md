@@ -31,8 +31,8 @@
 ## 📖 MY Study ✏️
 | 학습 (Practice) | 설명 (Description) | 수행기관 (Organization) | 링크 (Links) |
 |:---|:---|:---|:---|
-| **VCS를 활용한 SystemVerilog Testbench 및 검증 방법론** <br> 📅(26.07.22 ~) | - SystemVerilog 기반의 Constrained Random Verification 환경 구축에 대해 학습하였습니다.<br> - 16x16 Router 모델을 검증 대상(DUT)으로 삼아, 시뮬레이션 레이스 컨디션을 방지하는 구조적 검증 환경 구축법을 다뤘습니다.<br> - 데이터 타입 제어, 동적 배열 처리, 객체지향 프로그래밍(OOP) 기반 캡슐화, Functional Coverage 구조 설계 및 UVM 프레임워크의 기초 개념을 포함하여, 실무 검증 방법론을 체계적으로 습득하는 것을 목표로 하였습니다. | 반도체설계교육센터 | [SystemVerilog TestBench](https://github.com/EunSeongL/SystemVerilog-TestBench) |
 | **SoC 설계 및 구현** <br> 📅(26.08.24 ~) | - Verilog HDL 및 FPGA를 활용하여 Cortex-M0 Processor기반 AMBA AHB 인터페이스를 적용하여 주변장치(LED, FND, GPIO, TIMER)를 연결하여 SoC의 하드웨어 동작원리를 학습하였습니다.<br> - 설계한 하드웨어 위에 Keil uVision5 툴을 활용하여 어셈블리어 및 C Code를 통해 애플리케이션 소프트웨어를 업로드함으로써 SoC 설계 및 구현의 전체 과정을 DE2-115보드에서 확인하였습니다.<br> | 반도체설계교육센터 | [SoC Design AMBA AHB](https://github.com/EunSeongL/SystemVerilog-TestBench) |
+| **VCS를 활용한 SystemVerilog Testbench 및 검증 방법론** <br> 📅(26.07.22 ~) | - SystemVerilog 기반의 Constrained Random Verification 환경 구축에 대해 학습하였습니다.<br> - 16x16 Router 모델을 검증 대상(DUT)으로 삼아, 시뮬레이션 레이스 컨디션을 방지하는 구조적 검증 환경 구축법을 다뤘습니다.<br> - 데이터 타입 제어, 동적 배열 처리, 객체지향 프로그래밍(OOP) 기반 캡슐화, Functional Coverage 구조 설계 및 UVM 프레임워크의 기초 개념을 포함하여, 실무 검증 방법론을 체계적으로 습득하는 것을 목표로 하였습니다. | 반도체설계교육센터 | [SystemVerilog TestBench](https://github.com/EunSeongL/SystemVerilog-TestBench) |
 
 ## 🚀 Tech Stack 🚀
 
